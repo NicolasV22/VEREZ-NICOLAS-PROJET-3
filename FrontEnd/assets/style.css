@@ -70,7 +70,7 @@ main{
 	align-items: center;
 }
 
-h1{
+#logoSite{
 	display: flex;
 	flex-direction: column;
 	font-family: 'Syne';
@@ -78,6 +78,7 @@ h1{
 	font-weight: 800;
 	color: #B1663C
 }
+
 
 h1 > span {
 	font-family: 'Work Sans';
